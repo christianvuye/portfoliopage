@@ -5,3 +5,7 @@
 body {
     background-color: #fff;
 }
+
+li {
+    list-style: square;
+}
